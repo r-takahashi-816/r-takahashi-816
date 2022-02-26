@@ -16,4 +16,74 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=k4zam1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 30 Contributions in the Year 2022
+ > 
+> 📦 13.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌃 Evening    13 commits     ███████████░░░░░░░░░░░░░░   44.83% 
+🌙 Night      16 commits     █████████████░░░░░░░░░░░░   55.17%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Thursday     9 commits      ███████░░░░░░░░░░░░░░░░░░   31.03% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Sunday       12 commits     ██████████░░░░░░░░░░░░░░░   41.38%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Scheme                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/k4zam1/k4zam1/main/charts/bar_graph.png) 
+
+
+ Last Updated on 26/02/2022 18:01:42 UTC
 <!--END_SECTION:waka-->
