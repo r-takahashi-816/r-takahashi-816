@@ -14,3 +14,22 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=k4zam1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ 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 }}
+          GH_TOKEN: ${{ 3c7db5f7-f264-422f-bb67-0d2ff88248c4 }}
+<!--END_SECTION:waka-->
