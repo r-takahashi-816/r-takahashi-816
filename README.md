@@ -12,3 +12,5 @@
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=k4zam1&theme=dracula"/>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=k4zam1)](https://github.com/ryo-ma/github-profile-trophy)
