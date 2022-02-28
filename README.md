@@ -1,5 +1,3 @@
-
-### 👾 I use
 ![RUST](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)
 ![Typescript](https://img.shields.io/badge/-Typescript-141414?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)
