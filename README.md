@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 64 Contributions in the Year 2022
  > 
 > 📦 50.8 kB Used in GitHub's Storage 
  > 
@@ -57,7 +57,7 @@ Sunday       15 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -74,5 +74,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2022 18:49:12 UTC
+ Last Updated on 24/05/2022 18:51:45 UTC
 <!--END_SECTION:waka-->
