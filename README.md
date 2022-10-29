@@ -57,7 +57,7 @@ Sunday       17 commits     ███████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,5 +74,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2022 18:51:30 UTC
+ Last Updated on 29/10/2022 18:50:06 UTC
 <!--END_SECTION:waka-->
