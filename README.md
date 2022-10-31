@@ -14,7 +14,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=k4zam1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,5 +75,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2022 18:50:32 UTC
+ Last Updated on 31/10/2022 18:53:37 UTC
 <!--END_SECTION:waka-->
