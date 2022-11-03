@@ -14,7 +14,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=k4zam1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,7 +22,7 @@
 
 > 🏆 58 Contributions in the Year 2022
  > 
-> 📦 183.7 kB Used in GitHub's Storage 
+> 📦 183.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,11 +57,11 @@ Sunday       17 commits     ███████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        ██████████████████░░░░░░░   73.24% 
-CSV                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52% 
-Batchfile                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
-Properties               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
+Python                   3 hrs 25 mins       ██████████████████░░░░░░░   74.34% 
+CSV                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
+Batchfile                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.09% 
+Properties               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77% 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24%
 
 ```
 
@@ -78,5 +78,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2022 18:51:08 UTC
+ Last Updated on 03/11/2022 18:54:29 UTC
 <!--END_SECTION:waka-->
