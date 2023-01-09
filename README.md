@@ -14,7 +14,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=k4zam1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,10 +57,10 @@ Sunday       17 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 29 mins        ██████████████████░░░░░░░   74.01% 
-CSV                      29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.29% 
-Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+Python                   2 hrs 19 mins       ███████████████████░░░░░░   76.13% 
+CSV                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29% 
+Batchfile                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 ```
 
@@ -77,5 +77,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2023 18:40:45 UTC
+ Last Updated on 09/01/2023 18:43:31 UTC
 <!--END_SECTION:waka-->
