@@ -55,7 +55,7 @@ Sunday                   19 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +71,5 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2023 18:34:29 UTC
+ Last Updated on 21/06/2023 18:34:28 UTC
 <!--END_SECTION:waka-->
