@@ -3,16 +3,6 @@
 ![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-takahashi-816&theme=dracula&hide=html,css,dockerfile,shell,ejs,stylus,javascript&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=r-takahashi-816&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=r-takahashi-816&theme=dracula"/>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=r-takahashi-816)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2037%20mins-blue)
 
