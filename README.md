@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -45,8 +45,8 @@ Sunday                   43 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     2 hrs 10 mins       ███████████████░░░░░░░░░░   61.90 % 
-Other                    1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   38.10 % 
+Bash                     2 hrs 12 mins       ████████████████░░░░░░░░░   62.20 % 
+Other                    1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   37.80 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +62,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2023 18:35:39 UTC
+ Last Updated on 19/07/2023 18:34:52 UTC
 <!--END_SECTION:waka-->
