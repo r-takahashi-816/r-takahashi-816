@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,8 +45,8 @@ Sunday                   62 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     2 hrs 52 mins       █████████████████████░░░░   85.35 % 
-YAML                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Bash                     2 hrs 58 mins       █████████████████████░░░░   85.78 % 
+YAML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
@@ -64,5 +64,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2023 18:34:47 UTC
+ Last Updated on 06/09/2023 18:34:57 UTC
 <!--END_SECTION:waka-->
