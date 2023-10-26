@@ -45,8 +45,7 @@ Sunday                   62 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     11 mins             ███████████████████████░░   91.42 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +61,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2023 18:34:46 UTC
+ Last Updated on 26/10/2023 18:35:05 UTC
 <!--END_SECTION:waka-->
