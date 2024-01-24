@@ -4,13 +4,15 @@
 ![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 195.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,11 +45,11 @@ Sunday                   62 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     27 mins             ███████████░░░░░░░░░░░░░░   42.64 % 
-JSON                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-TSConfig                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Bash                     27 mins             ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+TypeScript               18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+JSON                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Vue.js                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+TSConfig                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +65,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2024 18:35:20 UTC
+ Last Updated on 24/01/2024 18:34:55 UTC
 <!--END_SECTION:waka-->
