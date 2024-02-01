@@ -4,13 +4,15 @@
 ![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 195.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,10 +45,9 @@ Sunday                   62 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     52 mins             ████████████████████████░   97.82 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Bash                     22 mins             █████████████████████████   98.68 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +63,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2024 18:34:21 UTC
+ Last Updated on 01/02/2024 18:34:47 UTC
 <!--END_SECTION:waka-->
