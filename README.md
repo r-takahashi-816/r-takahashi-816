@@ -45,7 +45,8 @@ Sunday                   62 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     30 mins             █████████████████████████   99.92 % 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in Python** 
@@ -61,5 +62,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2024 18:34:54 UTC
+ Last Updated on 04/03/2024 18:34:51 UTC
 <!--END_SECTION:waka-->
