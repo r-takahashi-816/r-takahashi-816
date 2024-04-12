@@ -4,6 +4,8 @@
 ![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2041%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -41,10 +43,8 @@ Sunday                   62 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   46 mins             ████████████████████████░   96.10 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Java                     15 mins             ████████████████████░░░░░   80.54 % 
+Python                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
 ```
 
 **I Mostly Code in Python** 
@@ -60,5 +60,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 18:34:29 UTC
+ Last Updated on 12/04/2024 18:34:33 UTC
 <!--END_SECTION:waka-->
