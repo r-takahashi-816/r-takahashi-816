@@ -12,6 +12,8 @@
 
 > 📦 195.5 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -43,7 +45,8 @@ Sunday                   62 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 mins              █████████████████████████   100.00 % 
+Other                    7 mins              ███████████████████████░░   93.25 % 
+Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,5 +62,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2024 18:37:17 UTC
+ Last Updated on 11/07/2024 18:36:15 UTC
 <!--END_SECTION:waka-->
