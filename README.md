@@ -4,15 +4,13 @@
 ![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 195.5 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,5 +60,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2024 18:36:15 UTC
+ Last Updated on 12/07/2024 18:37:45 UTC
 <!--END_SECTION:waka-->
