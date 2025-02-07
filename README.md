@@ -45,7 +45,7 @@ Sunday                   62 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -61,5 +61,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2025 18:38:48 UTC
+ Last Updated on 07/02/2025 18:38:47 UTC
 <!--END_SECTION:waka-->
