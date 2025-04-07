@@ -12,6 +12,8 @@
 
 > 📦 146.3 kB Used in GitHub's Storage 
  > 
+> 🏆 1 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -43,7 +45,7 @@ Sunday                   17 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -57,5 +59,5 @@ Makefile                 1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 06/04/2025 18:38:26 UTC
+ Last Updated on 07/04/2025 18:39:50 UTC
 <!--END_SECTION:waka-->
