@@ -45,7 +45,7 @@ Sunday                   15 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -60,5 +60,5 @@ Makefile                 1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 12/06/2025 18:41:55 UTC
+ Last Updated on 13/06/2025 18:42:14 UTC
 <!--END_SECTION:waka-->
