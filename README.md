@@ -12,8 +12,6 @@
 
 > 📦 6.6 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -61,5 +59,5 @@ Makefile                 1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/08/2025 18:41:34 UTC
+ Last Updated on 29/08/2025 18:39:38 UTC
 <!--END_SECTION:waka-->
