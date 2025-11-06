@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,8 +45,9 @@ Sunday                   17 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     12 mins             █████████████████████████   98.86 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JSON                     37 mins             █████████████████████████   98.53 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,5 +62,5 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2025 18:42:49 UTC
+ Last Updated on 06/11/2025 18:43:33 UTC
 <!--END_SECTION:waka-->
