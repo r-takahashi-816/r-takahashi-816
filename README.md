@@ -4,8 +4,6 @@
 ![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%208%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -60,5 +58,5 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2026 18:46:22 UTC
+ Last Updated on 01/02/2026 18:47:18 UTC
 <!--END_SECTION:waka-->
